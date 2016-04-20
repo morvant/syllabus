@@ -11,12 +11,12 @@ permalink: /
 
 **Unit**
 
-## Course Number: Course Title
+## Course Number: Culinary Chemistry in Italy
 
-**Semester Year**
+**Summer 2016**
 
 
-**Instructor: **Dr. ××**   
+**Instructor: **Dr. Morvant ××**   
 **Office**: Building Number  
 **Email**:  
 
